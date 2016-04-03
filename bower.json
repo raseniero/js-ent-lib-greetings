@@ -1,0 +1,22 @@
+{
+  "name": "js-ent-lib",
+  "description": "jairosoft JavaScript Enterprise Library project",
+  "main": "src/Greeting.js",
+  "authors": [
+    "Ramon Aseniero"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jairosoft",
+    "Enterprise Library"
+  ],
+  "moduleType": [],
+  "homepage": "http://www.jairosoft.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
